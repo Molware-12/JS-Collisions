@@ -11,4 +11,6 @@ Then, its up to the Pythagorean Theorem to determine the length of the last side
 
 The last Event Listener is just to display whether a collision has occured, if it has, it displays "Contact" and "no contact" otherwise.
 
+I also would appreciate some help with the animations of the movements, as I am not too good at creating smooth animations. Thank you.
+
 Hope you enjoy
