@@ -1,0 +1,39 @@
+#area{
+    border: 1px solid salmon;
+    height: 700px;
+}
+#space {
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#dino {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: blue;
+    background-size: 40px 40px;
+    text-align: left;
+    position: relative;
+}
+
+#obstacle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: chartreuse;
+    background-size: 20px 40px;
+    align-self: flex-end;
+    position: relative;
+} 
+
+#display {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
